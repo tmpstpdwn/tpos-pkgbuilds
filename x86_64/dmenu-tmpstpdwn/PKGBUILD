@@ -1,8 +1,8 @@
 # Maintainer: Tmpstpdwn <tmpstpdwn@tuta.io>
 pkgname=dmenu-tmpstpdwn
 _pkgname=dmenu-tmpstpdwn
-_pkgver=1
-pkgver=1.r4.357e14b
+_pkgver=1.0
+pkgver=1.0.r4.357e14b
 pkgrel=1
 pkgdesc="Custom build of dmenu by tmpstpdwn"
 arch=('x86_64')
