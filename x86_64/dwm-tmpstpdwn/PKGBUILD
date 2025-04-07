@@ -1,18 +1,18 @@
 # Maintainer: Tmpstpdwn <tmpstpdwn@tuta.io>
-pkgname=dmenu-tmpstpdwn
-_pkgname=dmenu-tmpstpdwn
+pkgname=dwm-tmpstpdwn
+_pkgname=dwm-tmpstpdwn
 _pkgver=1
-pkgver=1.r4.357e14b
+pkgver=1.r7.ed381c0
 pkgrel=1
-pkgdesc="Custom build of dmenu by tmpstpdwn"
+pkgdesc="Custom build of dwm by tmpstpdwn"
 arch=('x86_64')
-url="https://github.com/tmpstpdwn/dmenu-tmpstpdwn"
+url="https://github.com/tmpstpdwn/dwm-tmpstpdwn"
 license=('MIT')
 depends=('libx11' 'libxinerama' 'libxft')
 makedepends=('git')
-provides=('dmenu')
-conflicts=('dmenu')
-source=("git+https://github.com/tmpstpdwn/dmenu-tmpstpdwn.git")
+provides=('dwm')
+conflicts=('dwm')
+source=("git+https://github.com/tmpstpdwn/dwm-tmpstpdwn.git")
 sha256sums=('SKIP')
 
 pkgver() {
