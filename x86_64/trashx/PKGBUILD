@@ -1,7 +1,7 @@
 # Maintainer: Tmpstpdwn <tmpstpdwn@tuta.io>
 pkgname=trashx
 _pkgver=1.0
-pkgver=1.0
+pkgver=1.0.r10.ed099ef
 pkgrel=1
 pkgdesc="A simple trash management tool."
 arch=('x86_64')

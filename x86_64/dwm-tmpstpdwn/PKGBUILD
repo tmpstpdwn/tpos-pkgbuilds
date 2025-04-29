@@ -2,7 +2,7 @@
 pkgname=dwm-tmpstpdwn
 _pkgname=dwm-tmpstpdwn
 _pkgver=1.0
-pkgver=1.0.r13.9ad802f
+pkgver=1.0.r16.5dde8c5
 pkgrel=1
 pkgdesc="Custom build of dwm by tmpstpdwn"
 arch=('x86_64')
